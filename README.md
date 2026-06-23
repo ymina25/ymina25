@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Min Aye 👋
 
-<!--
-**ymina25/ymina25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am studying Computer Engineering at Pusan National University.
+I enjoy building software that combines AI and backend systems to solve real-world problems.
 
-Here are some ideas to get you started:
+Currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AI Agents
+* Personalized AI Services
+* Android Development
+* Backend Engineering
+* Machine Learning Integration
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* Kotlin
+* Java
+* JavaScript
+* PHP
+
+### Mobile
+
+* Android
+* Jetpack Components
+* Firebase
+
+### AI / Data
+
+* TensorFlow Lite
+* Pandas
+* NumPy
+
+---
+
+## 📚 Current Interests
+
+* AI Agents
+* Personalized Recommendation Systems
+* Human-Centered AI
+* Backend Architecture
