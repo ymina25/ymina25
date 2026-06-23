@@ -1,7 +1,7 @@
 # Hi there, I'm Min Aye 👋
 
 🎓 I am studying Computer Engineering at Pusan National University.
-I enjoy building software that combines AI and backend systems to solve real-world problems.
+I enjoy building software that combines AI to solve real-world problems.
 
 Currently exploring:
 
