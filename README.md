@@ -1,7 +1,8 @@
-# Hi there, I'm Min Aye 👋
+# Hi there, I'm Yin Min Aye 👋
 
-🎓 I am studying Computer Engineering at Pusan National University.
+🎓 I'm studying Computer Engineering at Pusan National University, South Korea.
 I enjoy building software that combines AI to solve real-world problems.
+I also have a huge interest in big data and AI.
 
 Currently exploring:
 
@@ -22,18 +23,6 @@ Currently exploring:
 * Java
 * JavaScript
 * PHP
-
-### Mobile
-
-* Android
-* Jetpack Components
-* Firebase
-
-### AI / Data
-
-* TensorFlow Lite
-* Pandas
-* NumPy
 
 ---
 
