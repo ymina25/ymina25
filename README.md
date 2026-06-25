@@ -1,4 +1,4 @@
-# Hi there, I'm Yin Min Aye 👋
+# Hi there, I'm Yin Min Aye. 👋
 
 🎓 I'm studying Computer Engineering at Pusan National University, South Korea.
 I enjoy building software that combines AI to solve real-world problems.
