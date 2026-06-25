@@ -30,5 +30,6 @@ Currently exploring:
 
 * AI Agents
 * Personalized Recommendation Systems
+* Machine Learning
 * Human-Centered AI
-* Backend Architecture
+* Big Data
